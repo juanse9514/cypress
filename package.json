@@ -1,0 +1,22 @@
+{
+  "name": "cypressaut",
+  "version": "1.0.0",
+  "description": "demo for cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanse9514/cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanse9514/cypress/issues"
+  },
+  "homepage": "https://github.com/juanse9514/cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
