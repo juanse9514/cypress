@@ -1,5 +1,7 @@
 # cypress
 
+Git:https://github.com/juanse9514/cypressDemo
+
 Installing cypress from scrath
 1) npm init
 2) npm install cypress --save-dev
@@ -15,3 +17,5 @@ Before downloading the repo (at this point you need to have npm installed), plea
 
 1) npm install
 2) npm run test 
+
+If you have some questions refers to the following documentation https://docs.cypress.io/guides/overview/why-cypress
