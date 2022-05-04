@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/juanse9514/cypress.git"
   },
+  "env": {
+    "cypress/globals": true
+  },
+  "eslintConfig": {
+    "plugins": [
+      "cypress"
+    ]
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,5 +26,8 @@
   "homepage": "https://github.com/juanse9514/cypress#readme",
   "devDependencies": {
     "cypress": "^8.1.0"
+  },
+  "dependencies": {
+    "eslint-plugin-cypress": "^2.11.3"
   }
 }

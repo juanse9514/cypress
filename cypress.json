@@ -1,8 +1,10 @@
 {
-    "viewportHeight": 600,
-    "viewportWidth": 900,
-    "component": {
-      "viewportHeight": 500,
-      "viewportWidth": 500
-    }
+  "viewportHeight": 600,
+  "viewportWidth": 900,
+  "component": {
+    "viewportHeight": 500,
+    "viewportWidth": 500
+  },
+  "chromeWebSecurity": false,
+  "projectId": "9umk8g"
 }
