@@ -9,7 +9,7 @@ Download and install nodejs
 
 # cypress
 
-Installing cypress from scrath
+Installing cypress from scrath (https://docs.cypress.io/guides/getting-started/installing-cypress)
 1) npm init
 2) npm install cypress --save-dev
 
