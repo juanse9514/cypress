@@ -22,7 +22,7 @@ or if you use mac:
 https://medium.com/javascript-comunidad/c%C3%B3mo-instalar-node-js-y-npm-en-mac-9d80f26fb88d
 
 
-Before downloading the repo (at this point you need to have npm installed), please run the following commands at "package.json" level
+After downloading the repo (at this point you need to have npm installed), please run the following commands at "package.json" level
 
 1) npm install
 2) npm run test 
